@@ -1,0 +1,19 @@
+.clearfix:before,.clearfix:after{ content:'';display: table;}
+.clearfix:after{ clear: both;}
+a{color: #82939e; text-decoration: none;}
+a:hover{ color: #e43e3e;}
+li{ list-style: none;}
+body{font-family: '微软雅黑';font-size: 14px;color: #82939e;}/*公共*/
+.head{width: 1209px;width: 100%; height: 1982px;margin: 0 auto;background: url(../切图/images.1.23/版本更新/header-bg.jpg) no-repeat;}
+.riqi1{font-size: 18px;margin-left: 900px;margin-top:298px ;color: #f24619;}
+.riqi2{font-size: 18px;margin-left: 880px;color: #f24619;}
+.data1{display: inline-block; font-size: 24px;color: #fff;width: 35px;height: 35px;background: #f1301a;text-align: center;}
+.zuixin{width: 297px;height: 74px;font-size: 24px;color: #fff;padding: 26px 0 0 103px;background: #e43e3e;margin: 148px 0 0 0;float: left;;}
+.lishi{width: 297px;height: 74px;font-size: 24px;color: #fff;padding: 26px 0 0 103px;background: #82939e;margin: 148px 0 0 0;float: left;}
+.xiaozi{font-size: 12px;}
+.tupian{position: absolute top 26px left 42px ;}
+.content{font-size: 30px;color: #f1301a;margin: 80px 0 0 348px;}
+.changtiao{background: #82939e;}
+
+
+
